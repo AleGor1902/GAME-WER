@@ -1,0 +1,56 @@
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\discord_game_sdk.dll
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\steam_api64.dll
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Alkad.exe
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Alkad.pdb
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Facepunch.Steamworks.Win64.dll
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\GameWer.SDK.dll
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\GameWer.UI.Default.dll
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\websocket-sharp.dll
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Facepunch.Steamworks.Win64.xml
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\websocket-sharp.xml
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.csprojAssemblyReference.cache
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\GameWer.Properties.Resources.resources
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.csproj.GenerateResource.cache
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.csproj.CopyComplete
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.exe
+C:\Users\User\Desktop\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.pdb
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\discord_game_sdk.dll
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\steam_api64.dll
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Alkad.exe
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Alkad.pdb
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Facepunch.Steamworks.Win64.dll
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\GameWer.SDK.dll
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\GameWer.UI.Default.dll
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Newtonsoft.Json.dll
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\websocket-sharp.dll
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Facepunch.Steamworks.Win64.xml
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\Newtonsoft.Json.xml
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\bin\x64\Release\websocket-sharp.xml
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\GameWer.Properties.Resources.resources
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.csproj.GenerateResource.cache
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.csproj.CoreCompileInputs.cache
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.csproj.CopyComplete
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.exe
+E:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\GameWer-Source-master\Alkad\obj\x64\Release\Alkad.pdb
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\discord_game_sdk.dll
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\steam_api64.dll
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\Alkad.exe
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\Alkad.pdb
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\Facepunch.Steamworks.Win64.dll
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\GameWer.SDK.dll
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\GameWer.UI.Default.dll
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\Newtonsoft.Json.dll
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\websocket-sharp.dll
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\Facepunch.Steamworks.Win64.xml
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\Newtonsoft.Json.xml
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\bin\x64\Release\websocket-sharp.xml
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\obj\x64\Release\Alkad.csprojAssemblyReference.cache
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\obj\x64\Release\GameWer.Properties.Resources.resources
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\obj\x64\Release\Alkad.csproj.GenerateResource.cache
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\obj\x64\Release\Alkad.csproj.CoreCompileInputs.cache
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\obj\x64\Release\Alkad.csproj.CopyComplete
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\obj\x64\Release\Alkad.exe
+F:\Библиотеки - мапперы - сурсы - протекторы - анпакеры - реверсинг\сурсы гв\src\Alkad\obj\x64\Release\Alkad.pdb
